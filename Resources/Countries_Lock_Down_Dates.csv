@@ -1,45 +1,45 @@
-Country,Date of Lockdown,Level,Week,,,,,,,,Week 
-Argentina,3/21/2020,National,12,,,,,,,,
-Australia,3/23/2020,National,13,,,,,,,,
-Bolivia,3/22/2020,National,13,,,,,,,,
-Brazil,3/17/2020,State,12,,,,,,,,
-Canada,3/25/2020,National,13,,,,,,,,
-Chile,3/19/2020,National,12,,,,,,,,
-China,1/23/2020,City,4,,,,,,,,
-Colombia,3/24/2020,National,13,,,,,,,,
-Czech Republic,3/16/2020,National,12,,,,,,,,
-Denmark,3/11/2020,National,11,,,,,,,,
-Egypt,3/19/2020,National,12,,,,,,,,
-Finland,3/27/2020,Regional,13,,,,,,,,
-France,3/17/2020,National,12,,,,,,,,
-Germany,3/20/2020,State,12,,,,,,,,
-Greece,03/23/2020,National,13,,,,,,,,
-Hungary,03/28/2020,National,13,,,,,,,,
-India,03/24/2020,National,13,,,,,,,,
-Iran,2/22/2020,National,8,,,,,,,,
-Ireland,03/28/2020,National,13,,,,,,,,
-Israel,3/19/2020,City,12,,,,,,,,
-Italy,03/04/2020,National,10,,,,,,,,
-Japan,03/02/2020,National,10,,,,,,,,
-Jordan,03/21/2020,National,12,,,,,,,,
-Kuwait,03/12/2020,National,11,,,,,,,,
-Mexico,3/24/2020,National,13,,,,,,,,
-Netherlands,3/10/2020,National,11,,,,,,,,
-New Zealand,3/26/2020,National,13,,,,,,,,
-Peru,3/16/2020,National,12,,,,,,,,
-Philippines,3/16/2020,Regional,12,,,,,,,,
-Poland,3/13/2020,National,11,,,,,,,,
-Portugal,3/19/2020,National,12,,,,,,,,
-Russia,3/30/2020,Regional,14,,,,,,,,
-Saudi Arabia,3/15/2020,City,12,,,,,,,,
-Serbia,3/15/2020,National,12,,,,,,,,
-South Africa,3/15/2020,National,12,,,,,,,,
-South Korea,02/04/2020,National,6,,,,,,,,
-Spain,3/14/2020,National,11,,,,,,,,
-Sweden,3/11/2020,National,11,,,,,,,,
-Thailand,3/18/2020,National,12,,,,,,,,
-Turkey,3/16/2020,National,12,,,,,,,,
-UK,3/23/2020,National,13,,,,,,,,
-USA,3/27/2020,State,13,,,,,,,,
-Venezuela,3/15/2020,National,12,,,,,,,,
-Vietnam,3/31,National,14,,,,,,,,
+Country,Date of Lockdown,Level,Week
+Argentina,3/21/2020,National,12
+Australia,3/23/2020,National,13
+Bolivia,3/22/2020,National,13
+Brazil,3/17/2020,State,12
+Canada,3/25/2020,National,13
+Chile,3/19/2020,National,12
+China,1/23/2020,City,4
+Colombia,3/24/2020,National,13
+Czech Republic,3/16/2020,National,12
+Denmark,3/11/2020,National,11
+Egypt,3/19/2020,National,12
+Finland,3/27/2020,Regional,13
+France,3/17/2020,National,12
+Germany,3/20/2020,State,12
+Greece,03/23/2020,National,13
+Hungary,03/28/2020,National,13
+India,03/24/2020,National,13
+Iran,2/22/2020,National,8
+Ireland,03/28/2020,National,13
+Israel,3/19/2020,City,12
+Italy,03/04/2020,National,10
+Japan,03/02/2020,National,10
+Jordan,03/21/2020,National,12
+Kuwait,03/12/2020,National,11
+Mexico,3/24/2020,National,13
+Netherlands,3/10/2020,National,11
+New Zealand,3/26/2020,National,13
+Peru,3/16/2020,National,12
+Philippines,3/16/2020,Regional,12
+Poland,3/13/2020,National,11
+Portugal,3/19/2020,National,12
+Russia,3/30/2020,Regional,14
+Saudi Arabia,3/15/2020,City,12
+Serbia,3/15/2020,National,12
+South Africa,3/15/2020,National,12
+South Korea,02/04/2020,National,6
+Spain,3/14/2020,National,11
+Sweden,3/11/2020,National,11
+Thailand,3/18/2020,National,12
+Turkey,3/16/2020,National,12
+UK,3/23/2020,National,13
+USA,3/27/2020,State,13
+Venezuela,3/15/2020,National,12
+Vietnam,3/31/2020,National,14
