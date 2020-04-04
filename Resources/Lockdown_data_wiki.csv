@@ -1,0 +1,67 @@
+country,start_date,level,start_week
+Afghanistan,,None,
+Algeria,23-Mar,City,13
+Argentina,19-Mar,National,12
+Australia,23-Mar,National,13
+Austria,16-Mar,National,12
+Bangladesh,,None,
+Bolivia,22-Mar,National,12
+Brazil,17-Mar,State,12
+CÃ´te d'Ivoire,,None,
+Cambodia,,None,
+Canada,,None,
+Chile,19-Mar,National,12
+China,23-Jan,City,4
+Colombia,25-Mar,National,13
+Costa Rica,23-Mar,National,13
+Czech Republic,16-Mar,National,12
+Denmark,11-Mar,National,11
+Ecuador,16-Mar,National,12
+Egypt,,None,
+El Salvador,12-Mar,National,11
+Ethiopia,,None,
+Finland,27-Mar,Region,13
+France,17-Mar,National,12
+Germany,20-Mar,State,12
+Greece,23-Mar,National,13
+Guinea,,None,
+Hungary,28-Mar,National,13
+India,25-Mar,National,13
+Indonesia,26-Mar,City,13
+Iran,,None,
+Iraq,22-Mar,National,12
+Ireland,12-Mar,National,11
+Israel,2-Apr,City,14
+Italy,9-Mar,National,11
+Japan,,None,
+Jordan,21-Mar,National,12
+Kazakhstan,,None,
+Kenya,,None,
+Kuwait,14-Mar,National,11
+Mali,,None,
+Mexico,,None,
+Netherlands,16-Mar,National,12
+New Zealand,26-Mar,National,13
+Pakistan,22-Mar,Administrative,12
+Peru,16-Mar,National,12
+Philippines,15-Mar,Island Group,11
+Poland,13-Mar,National,11
+Portugal,19-Mar,National,12
+Puerto Rico,,None,
+Russia,30-Mar,Metropolitan Area,14
+Saudi Arabia,9-Mar,Area,11
+Serbia,,None,
+Singapore,7-Apr,National,15
+South Africa,26-Mar,National,13
+South Korea,,None,
+Spain,14-Mar,National,11
+Sweden,,None,
+Thailand,25-Mar,National,13
+Turkey,,None,
+Uganda,,None,
+UK,24-Mar,National,13
+Ukraine,,None,
+USA,19-Mar,State,12
+Uzbekistan,,None,
+Venezuela,17-Mar,National,12
+Vietnam,,None,
