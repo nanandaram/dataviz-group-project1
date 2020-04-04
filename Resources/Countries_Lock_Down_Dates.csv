@@ -1,45 +1,45 @@
-Country,Date of Restrictions,Level,Week of Restrictions
-Argentina,3/21/20,National,12
-Australia,3/23/20,National,13
-Bolivia,3/22/20,National,13
-Brazil,3/17/20,State,12
-Canada,3/25/20,National,13
-Chile,3/19/20,National,12
-China,1/23/20,City,4
-Colombia,3/24/20,National,13
-Czech Republic,3/16/20,National,12
-Denmark,3/11/20,National,11
-Egypt,3/19/20,National,12
-Finland,3/27/20,Regional,13
-France,3/17/20,National,12
-Germany,3/20/20,State,12
-Greece,3/23/20,National,13
-Hungary,3/28/20,National,13
-India,3/24/20,National,13
-Iran,2/22/20,National,8
-Ireland,3/28/20,National,13
-Israel,3/19/20,City,12
-Italy,3/4/20,National,10
-Japan,3/2/20,National,10
-Jordan,3/21/20,National,12
-Kuwait,3/12/20,National,11
-Mexico,3/24/20,National,13
-Netherlands,3/10/20,National,11
-New Zealand,3/26/20,National,13
-Peru,3/16/20,National,12
-Philippines,3/16/20,Regional,12
-Poland,3/13/20,National,11
-Portugal,3/19/20,National,12
-Russia,3/30/20,Regional,14
-Saudi Arabia,3/15/20,City,12
-Serbia,3/15/20,National,12
-South Africa,3/15/20,National,12
-South Korea,2/4/20,National,6
-Spain,3/14/20,National,11
-Sweden,3/11/20,National,11
-Thailand,3/18/20,National,12
-Turkey,3/16/20,National,12
-UK,3/23/20,National,13
-USA,3/27/20,State,13
-Venezuela,3/15/20,National,12
-Vietnam,3/31/20,National,14
+Country,Date of Restrictions,Level,Week of Restrictions,Continent
+Argentina,3/21/20,National,12,South America
+Australia,3/23/20,National,13,Australia
+Bolivia,3/22/20,National,13,South America
+Brazil,3/17/20,State,12,South America
+Canada,3/25/20,National,13,North America
+Chile,3/19/20,National,12,South America
+China,1/23/20,City,4,Asia
+Colombia,3/24/20,National,13,South America
+Czech Republic,3/16/20,National,12,Europe
+Denmark,3/11/20,National,11,Europe
+Egypt,3/19/20,National,12,Europe
+Finland,3/27/20,Regional,13,Europe
+France,3/17/20,National,12,Europe
+Germany,3/20/20,State,12,Europe
+Greece,3/23/20,National,13,Europe
+Hungary,3/28/20,National,13,Europe
+India,3/24/20,National,13,Asia
+Iran,2/22/20,National,8,Asia
+Ireland,3/28/20,National,13,Europe
+Israel,3/19/20,City,12,Asia
+Italy,3/4/20,National,10,Europe
+Japan,3/2/20,National,10,Asia
+Jordan,3/21/20,National,12,Asia
+Kuwait,3/12/20,National,11,Asia
+Mexico,3/24/20,National,13,North America
+Netherlands,3/10/20,National,11,Europe
+New Zealand,3/26/20,National,13,
+Peru,3/16/20,National,12,South America
+Philippines,3/16/20,Regional,12,Asia
+Poland,3/13/20,National,11,Europe
+Portugal,3/19/20,National,12,Europe
+Russia,3/30/20,Regional,14,Europe
+Saudi Arabia,3/15/20,City,12,Asia
+Serbia,3/15/20,National,12,Europe
+South Africa,3/15/20,National,12,Africa
+South Korea,2/4/20,National,6,Asia
+Spain,3/14/20,National,11,Europe
+Sweden,3/11/20,National,11,Europe
+Thailand,3/18/20,National,12,Asia
+Turkey,3/16/20,National,12,Asia
+UK,3/23/20,National,13,Europe
+USA,3/27/20,State,13,North America
+Venezuela,3/15/20,National,12,South America
+Vietnam,3/31/20,National,14,Asia
